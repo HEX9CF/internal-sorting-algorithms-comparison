@@ -1,8 +1,11 @@
-﻿#include "../include/main.h"
+﻿/*
+main
+*/
+#include "../include/main.h"
 #include "../include/sort.h"
 
-int n, m, t;
-ElemType a[N], b[N];
+static int n, m, t;
+static ElemType a[N], b[N];
 
 Status testAlgorithm(Result(*sort)(ElemType*, int), ElemType* a, int n) {
 	memcpy(b, a, n * sizeof(ElemType));

@@ -131,10 +131,10 @@
     <ClInclude Include="include\sort.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="include\main.cpp" />
     <ClCompile Include="src\bubble_sort.cpp" />
     <ClCompile Include="src\heap_sort.cpp" />
     <ClCompile Include="src\insert_sort.cpp" />
+    <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\quick_sort.cpp" />
     <ClCompile Include="src\random_number.cpp" />
     <ClCompile Include="src\select_sort.cpp" />

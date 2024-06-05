@@ -44,7 +44,7 @@
     <ClCompile Include="src\shell_sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="include\main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
